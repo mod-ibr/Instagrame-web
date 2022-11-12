@@ -1,4 +1,6 @@
-# instagram_web
+# instagram web
+![instagrame web](https://user-images.githubusercontent.com/81623956/201446297-6026fda6-a5d4-473e-b668-894a50b71e78.gif)
+
 
 A new Flutter project.
 
